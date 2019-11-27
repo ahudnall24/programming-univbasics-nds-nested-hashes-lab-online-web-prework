@@ -8,7 +8,27 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
 def assembled_aoh
   
+  example_1={
+    name: "Don Gately", 
+    occupation: "Live-in Staff" 
+    
+  }
   
+  example_2={
+    name:  "Joelle van Dyne", 
+    occupation: "Radio Personality"
+    
+  }
+  
+  example_3={ 
+    name:  "Pat Monteseian"
+    occupation: "Staff" 
+    
+  }
+  
+  example_4={
+    
+  }
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
 end
