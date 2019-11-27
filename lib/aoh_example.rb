@@ -27,6 +27,15 @@ def assembled_aoh
   }
   
   example_4={
+    name:  "Kate Gompert", 
+    occupation: "None" 
+    
+  }
+  
+  example_5={
+    name:  "Bruce Green",
+    occupation: "Fan of Mildred" 
+
     
   }
   # Build an array that contains (or, "nests") the constants into a single
