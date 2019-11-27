@@ -43,7 +43,8 @@ def assembled_aoh
 end
 
 def literal_aoh
-  
+  Infinite_Jest=[{:name=>"Don Gately", :occupation=>"Live-in-Staff"},
+  ]
   
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
